@@ -12,6 +12,7 @@ function App() {
     console.log(age);
     console.log(password);
   }
+  
 
   return (
     <>
